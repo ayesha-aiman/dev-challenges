@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 72px;
+    color: #fff;
+    background-color: #281B2D;
+}
+.headings {
+    color: #FCD801;
+    font-size: 48px;
+    background-color: #281B2D;
+    border-bottom: 5px solid #00C54C;
+}
+img {
+    margin: 20px 0;
+}
+.headings span {
+    color: #fff;
+}
+.container {
+    width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+ol, ul {
+    text-align: left;
+    list-style: inside;
+}

@@ -21,7 +21,9 @@ h1 {
     border-bottom: 5px solid #00C54C;
 }
 
-.white-text { color: #fff }
+.white-text { 
+    color: #fff 
+}
 
 .container {
     max-width: 1000px;

@@ -37,6 +37,11 @@ h1 {
     margin-right: 5%;
 }
 
+.col-right {
+    margin-left: 25px;
+    padding: 10px;
+}
+
 .sidebar {
     width: 30%;
     padding:20px;
@@ -53,6 +58,4 @@ h1 {
     text-decoration: underline;
     text-decoration-color:rgb(20, 147, 220);
 
-.col-right {
-    margin-left: 25px;
-}
+
